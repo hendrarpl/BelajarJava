@@ -68,5 +68,11 @@ public class TipeDataDanVariabel {
         String iniString2 = "Anak nomer 2";
 
         System.out.println(iniString1+ " " + iniString2);
+        
+        // contoh tipe data dan variabel dari tipe data boolean
+        
+        boolean bool1 = true;
+        boolean bool2 = false;
+        System.out.println(bool1);
     }
 }
