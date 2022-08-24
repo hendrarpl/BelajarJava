@@ -1,5 +1,5 @@
 /* Tipe data
-Ada 2 jenis tipe data secara umum, yaitu tipe data number (bilangan bulat dan pecahan) dan tipe data character
+Ada 3 jenis tipe data secara umum, yaitu tipe data number (bilangan bulat dan pecahan), tipe data character dan tipe data boolean
 
     tipe data NUMBER
 
@@ -18,12 +18,18 @@ Ada 2 jenis tipe data secara umum, yaitu tipe data number (bilangan bulat dan pe
         char = untuk menampung 1 digit karakter, baik itu berupa huruf, angka maupun karakter lain seperti ^, %, dan #.
         String = untuk menampung kumpulan karakter seperti "aku anak nomer 1"
 
+    tipe data boolean
+        yaitu tipe data yang nilainya hanya ada 2 yaitu true dan false
+        contoh : 
+        boolean variabelBoolean1 = true;
+        boolean variabelBoolean2 = false;
+        
+        
         Note : dari semua tipe data yang ada diatas yang paling banyak digunakan dan disarankan adalah :
         -tipe data int untuk pengunaan angka desimal
         -tipe data double untuk penggunaan angka dengan koma
         -tipe data String untuk penggunaan kumpulan karakter angka dan character
-
-
+    
  */
 
 public class TipeDataDanVariabel {
